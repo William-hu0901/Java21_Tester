@@ -1,0 +1,12 @@
+{
+    "name": "Java 21 Test",
+    "features": [
+        "Record Patterns",
+        "Virtual Threads",
+        "String Templates",
+        "Unnamed Patterns",
+        "Structured Concurrency"
+    ],
+    "version": 21,
+    "description": "Test data for Java 21 features"
+}
