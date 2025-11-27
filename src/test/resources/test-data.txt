@@ -1,0 +1,5 @@
+Line 1: Hello World
+Line 2: Java 21 Features
+Line 3: Record Patterns
+Line 4: Virtual Threads
+Line 5: String Templates
