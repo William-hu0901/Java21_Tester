@@ -14,7 +14,8 @@ import org.junit.platform.suite.api.*;
 @SelectClasses({
     BasicJava21Test.class,
     MockitoIntegrationTest.class,
-    FileProcessingTest.class
+    FileProcessingTest.class,
+    Java21NewFeaturesTest.class
 })
 public class TestSuite {
 
